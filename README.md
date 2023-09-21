@@ -19,3 +19,16 @@ A "More Details" option linking to IMDB using `imdbID`
 - Error Management: In situations where errors arise (like "Invalid API Key!"), relay meaningful feedback to users.
 
 - Adaptive Design: Ensure the dashboard's optimal performance across mobile and desktop.
+
+# UI - Results
+Home page
+![home](https://github.com/kumaresh1597/Frontend-3-Imdb/assets/115056892/909714a3-0806-4a47-b382-421dc93355a2)
+
+On search
+![onsearch](https://github.com/kumaresh1597/Frontend-3-Imdb/assets/115056892/fc8131e9-a095-41bb-a0ff-2baf5e202b17)
+
+Mobile view
+![mobile view](https://github.com/kumaresh1597/Frontend-3-Imdb/assets/115056892/5c48533c-aac6-4b77-ad69-c2663795d95a)
+
+
+
